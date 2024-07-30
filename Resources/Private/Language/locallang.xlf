@@ -77,6 +77,9 @@
       <trans-unit id="constants.settings.maximum_pagination_links">
         <source>Number of links in the pagination</source>
       </trans-unit>
+      <trans-unit id="constants.settings.hide_on_init">
+        <source>Hide modal by default and show only on demand</source>
+      </trans-unit>
 
       <trans-unit id="tca.configuration">
         <source>Cookie-Consent Configuration</source>
