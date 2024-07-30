@@ -44,6 +44,8 @@ plugin.tx_mindshapecookieconsent {
     disableConsent = 0
     # cat=mindshape_cookie_consent/settings; type=boolean; label=LLL:EXT:mindshape_cookie_consent/Resources/Private/Language/locallang.xlf:constants.settings.add_language_to_cookie
     addLanguageToCookie = 0
+    # cat=mindshape_cookie_consent/settings; type=boolean; label=LLL:EXT:mindshape_cookie_consent/Resources/Private/Language/locallang.xlf:constants.settings.hide_on_init
+    hideOnInit = 0
   }
 }
 
